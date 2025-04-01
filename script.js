@@ -11,10 +11,13 @@ console.log(cadena.length);
  console.log(cadena.toLowerCase());
 /*Muestra por consola la posición de la cadena en
  la que se encuentra la letra o.*/
+ console.log(cadena.indexOf("o"));
 /*Muestra por consola la posición de la cadena en la
  que se encuentra la cadena “Hola”.*/
+
 /*Reemplaza la cadena “Mundo” por la cadena “Youtube”
  y muestra el resultado.*/
+
 /*Extrae la segunda parte de la cadena y muéstrala por consola.*/
 /*Comprueba si la cadena empieza por “h”.*/
 /*Comprueba si la cadena empieza por “H”.*/
