@@ -5,6 +5,7 @@ let cadena = "Hola Mundo";
 console.log(cadena.length);
 /*Muestra por consola la cadena con todos sus caracteres en
  mayúsculas.*/
+ console.log(cadena.toUpperCase());
 /*Muestra por consola la cadena con todos sus caracteres
  en minúsculas.*/
 /*Muestra por consola la posición de la cadena en
