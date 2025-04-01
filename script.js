@@ -2,6 +2,7 @@
  tenga el valor “Hola Mundo”.*/
 let cadena = "Hola Mundo";
 /*Muestra por consola la longitud de la cadena.*/
+console.log(cadena.length);
 /*Muestra por consola la cadena con todos sus caracteres en
  mayúsculas.*/
 /*Muestra por consola la cadena con todos sus caracteres
