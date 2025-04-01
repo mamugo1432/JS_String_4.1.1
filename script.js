@@ -21,6 +21,7 @@ console.log(cadena.length);
 /*Extrae la segunda parte de la cadena y muéstrala por consola.*/
 console.log(cadena.split(" ")[1]);
 /*Comprueba si la cadena empieza por “h”.*/
+console.log(cadena.startsWith("h"));
 /*Comprueba si la cadena empieza por “H”.*/
 /*Muestra Utilizando por TEMPLATE consola la STRINGS
  letra JAVASCRIPT*/
