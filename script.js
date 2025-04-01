@@ -17,7 +17,7 @@ console.log(cadena.length);
  console.log(cadena.indexOf("Hola"));
 /*Reemplaza la cadena “Mundo” por la cadena “Youtube”
  y muestra el resultado.*/
-
+ console.log(cadena.replace("Mundo","Youtube"));
 /*Extrae la segunda parte de la cadena y muéstrala por consola.*/
 /*Comprueba si la cadena empieza por “h”.*/
 /*Comprueba si la cadena empieza por “H”.*/
