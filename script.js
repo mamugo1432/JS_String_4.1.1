@@ -19,6 +19,7 @@ console.log(cadena.length);
  y muestra el resultado.*/
  console.log(cadena.replace("Mundo","Youtube"));
 /*Extrae la segunda parte de la cadena y muéstrala por consola.*/
+console.log(cadena.split(" ")[1]);
 /*Comprueba si la cadena empieza por “h”.*/
 /*Comprueba si la cadena empieza por “H”.*/
 /*Muestra Utilizando por TEMPLATE consola la STRINGS
