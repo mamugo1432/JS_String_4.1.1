@@ -27,5 +27,9 @@ console.log(cadena.startsWith("H"));
 /*Muestra Utilizando por TEMPLATE consola la STRINGS
  letra JAVASCRIPT*/
 /* “r” declara 10 veces.*/
+for(let i=0;i<10;i++){
+    let r = i;
+    console.log(r);
+}
  /*3 variables con tu nombre, apellidos y edad y
   muéstralas por consola introduciéndolas dentro de una cadena.*/
