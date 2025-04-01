@@ -26,6 +26,11 @@ console.log(cadena.startsWith("h"));
 console.log(cadena.startsWith("H"));
 /*Muestra Utilizando por TEMPLATE consola la STRINGS
  letra JAVASCRIPT*/
+
+ let variable= "JAVASCRIPT";
+
+ console.log(`String : ${variable}`);
+
 /* “r” declara 10 veces.*/
 for(let i=0;i<10;i++){
     let r = i;
@@ -33,3 +38,8 @@ for(let i=0;i<10;i++){
 }
  /*3 variables con tu nombre, apellidos y edad y
   muéstralas por consola introduciéndolas dentro de una cadena.*/
+  let nombre = "Manuel";
+  let apellidos = "Muñoz Gómez";
+  let edad = 20;
+
+  console.log("Hola mi nombre es " + nombre + " mis apellidos son " + apellidos + " y mi edad es "+edad + " años.");
