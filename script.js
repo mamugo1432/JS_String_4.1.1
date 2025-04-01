@@ -23,6 +23,7 @@ console.log(cadena.split(" ")[1]);
 /*Comprueba si la cadena empieza por “h”.*/
 console.log(cadena.startsWith("h"));
 /*Comprueba si la cadena empieza por “H”.*/
+console.log(cadena.startsWith("H"));
 /*Muestra Utilizando por TEMPLATE consola la STRINGS
  letra JAVASCRIPT*/
 /* “r” declara 10 veces.*/
