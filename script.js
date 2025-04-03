@@ -32,10 +32,7 @@ console.log(cadena.startsWith("H"));
  console.log(`String : ${variable}`);
 
 /* “r” declara 10 veces.*/
-for(let i=0;i<10;i++){
-    let r = i;
-    console.log(r);
-}
+"r".repeat(10);
  /*3 variables con tu nombre, apellidos y edad y
   muéstralas por consola introduciéndolas dentro de una cadena.*/
   let nombre = "Manuel";
